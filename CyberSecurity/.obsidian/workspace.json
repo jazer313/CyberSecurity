@@ -11,11 +11,52 @@
             "id": "f8d1fabfc47969e9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "EDR.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "54be5d9c4f3316a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MDR.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "66c1c38799768a32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "XDR.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "88eaa4bbe33d60a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CyberSecurity Strategy.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -81,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CyberSecurity Strategy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CyberSecurity Strategy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +161,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CyberSecurity Strategy.md"
+              }
             }
           }
         ]
@@ -138,6 +183,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f8d1fabfc47969e9",
-  "lastOpenFiles": []
+  "active": "88eaa4bbe33d60a9",
+  "lastOpenFiles": [
+    "XDR.md",
+    "MDR.md",
+    "EDR.md",
+    "CyberSecurity Strategy.md"
+  ]
 }
